@@ -4,13 +4,13 @@
 /* COLOR SETTINGS */
 :root {
   --ink: #17212b;
-  --muted: #746e58;
-  --paper: #f7f6f2;
+  --muted: #888888;
+  --paper: #fdb9fb;
   --white: #ffffff;
   --accent: #218891;
-  --accent-dark: #111255;
-  --line: #deded8;
-  --dark: #111a22;
+  --accent-dark: #171872;
+  --line: #20f5ca;
+  --dark: #01192e;
   --max-width: 1120px;
 }
 
