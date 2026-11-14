@@ -4,11 +4,11 @@
 /* COLOR SETTINGS */
 :root {
   --ink: #17212b;
-  --muted: #888888;
-  --paper: #fae7fa;
+  --muted: #8b8b8b;
+  --paper: #c7e8ff;
   --white: #ffffff;
-  --accent: #3b50d7;
-  --accent-dark: #171872;
+  --accent: #333387;
+  --accent-dark: #0c0d47;
   --line: #2c2d39;
   --dark: #01192e;
   --max-width: 1120px;
@@ -53,7 +53,7 @@ a:hover {
   background:
     linear-gradient(90deg, rgba(8, 15, 22, .88), rgba(8, 15, 22, .48)),
     linear-gradient(rgba(8, 15, 22, .15), rgba(8, 15, 22, .45)),
-    url("[PASTE HERO BACKGROUND IMAGE URL HERE]") center / cover no-repeat;
+    url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd1mu_7PTS-dmOhT7aQ6CSmAJ-r9h8gcMMI8fsabSCAQ&s=10") center / cover no-repeat;
 }
 
 .navbar {
@@ -99,7 +99,7 @@ a:hover {
 
 .eyebrow {
   margin: 0 0 12px;
-  color: var(--accent);
+  color: var(--accent-accent);
   font-size: .76rem;
   font-weight: 800;
   letter-spacing: .17em;
